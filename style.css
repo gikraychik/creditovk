@@ -32,3 +32,8 @@ color: #ffffff;
 }
 .content {
 }
+.footer_im {
+background: url('img/weareworking.png') no-repeat;
+background-size: 100% 100%;
+height: 38px;
+}
